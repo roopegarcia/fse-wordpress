@@ -2,12 +2,19 @@
   <!-- <img src="/assets/images/logo.jpeg"> -->
 </p>
 
-<h1 align="center">WordPress Full Site Editing - Can i do this without ACF 😅)</h1>
+<h1 align="center">WordPress Full Site Editing - Can i do this without ACF 😅</h1>
 
-<!-- ![MangoDB](/assets/images/deploy-render.png) -->
+<!-- ![Color pizza ](/images/pizza-02.jpeg) -->
 
 ## Version history
-- 3.3.24 Banner and Headline blocks (Three headline sizes: Large, Medium and Small).
+- 3.3.24 Banner and Headline blocks (Three headline sizes: Large, Medium and Small). Some color palette options.
+<p align="center">
+  <img src="/images/pizza-02.jpeg">
+</p>
+
+<p align="center">
+  <img src="/images/pizza-01.jpeg">
+</p>
 
 ## Features
 
