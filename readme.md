@@ -2,7 +2,7 @@
   <!-- <img src="/assets/images/logo.jpeg"> -->
 </p>
 
-<p align="center">WordPress Full Site Editing - Can i do this without ACF 😅)</p>
+<h1 align="center">WordPress Full Site Editing - Can i do this without ACF 😅)</h1>
 
 <!-- ![MangoDB](/assets/images/deploy-render.png) -->
 
